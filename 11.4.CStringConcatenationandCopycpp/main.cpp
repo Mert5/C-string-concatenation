@@ -3,7 +3,7 @@
 
 // References are 
 // https://en.cppreference.com/w/cpp/header/cstring
-// and freeCodeCamp.org
+// and https://www.youtube.com/watch?v=8jLOx1hD3_o
 
 int main(){
 
